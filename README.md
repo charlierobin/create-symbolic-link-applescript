@@ -1,6 +1,6 @@
 An AppleScript droplet (supports `on open` event) and applet (supports `on run`) for creating .sym links of dragged and dropped (or selected) files/folders.
 
-I think I originally started it in the late 2000s using the Apple Script Editor app ([AppleScript](support.apple.com/en-gb/guide/script-editor/welcome/mac)), but then at some point years later discovered Script Degugger ([Late Night Software | The home of Script Debugger](latenightsw.com/)) ~~and fell in love with that~~. (Or at least came to the conclusion that it was a lot better than the Apple offering when it came to the business of learning a little more about AppleScript. I’m not sure that love is involved.)
+I think I originally started it in the late 2000s using the Apple Script Editor app ([AppleScript](support.apple.com/en-gb/guide/script-editor/welcome/mac)), but then at some point years later discovered Script Debugger ([Late Night Software | The home of Script Debugger](latenightsw.com/)) ~~and fell in love with that~~. (Or at least came to the conclusion that it was a lot better than the Apple offering when it came to the business of learning a little more about AppleScript. I’m not sure that love is involved.)
 
 I seem to mainly use it for creating shared assets in Cinema 4D/After Effects projects and Visual Studio Code projects, where it seems to work well (whereas straight Apple Finder aliases fail):
 
