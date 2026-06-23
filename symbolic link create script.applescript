@@ -1,8 +1,14 @@
+on open droppedItems
+	
+	handle(droppedItems)
+	
+end open
+
 on run
 	
 	set options to {"Folder", "File"}
 	
-	set choice to choose from list options with prompt "Select if you want to do files or folders:" default items {"Folder"} with title "It’s your choice"
+	set choice to choose from list options with prompt "Select if you want to do files or folders:" default items {"Folder"} with title "Create .sym"
 	
 	if choice is not false then
 		
@@ -67,8 +73,4 @@ on displayError(message)
 	display dialog message with title "Create Symbolic Link(s) Script" buttons {"OK"} default button "OK"
 	
 end displayError
-
-
-
-
 
