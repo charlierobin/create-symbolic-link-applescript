@@ -19,3 +19,8 @@ Under the hood, it uses the standard command line:
 https://latenightsw.com/
 
 https://support.apple.com/en-gb/guide/script-editor/welcome/mac
+
+https://github.com/ololx/quick-symlink
+
+https://github.com/ololx/create-symlink
+
