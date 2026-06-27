@@ -20,7 +20,15 @@ https://latenightsw.com/
 
 https://support.apple.com/en-gb/guide/script-editor/welcome/mac
 
+This is another project I stumbled across whilst (finally) doing this README, and having tried it out, it’s pretty good, both as a utility and as a tutorial in how to create MacOS Finder extensions in Swift:
+
 https://github.com/ololx/quick-symlink
+
+This is by the same author as the Finder extension above, except it’s an Automator workflow calling
+
+`/System/Library/Automator/Run Shell Script.action`
+
+with the same `n -s etc etc` command.
 
 https://github.com/ololx/create-symlink
 
