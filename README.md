@@ -32,7 +32,7 @@ This is by the same author as the Finder extension above, except it’s an Autom
 
 `/System/Library/Automator/Run Shell Script.action`
 
-with the same `n -s etc etc` command.
+with the same `ln -s etc etc` command.
 
 https://github.com/ololx/create-symlink
 
