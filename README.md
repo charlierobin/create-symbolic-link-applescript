@@ -16,11 +16,15 @@ Under the hood, it uses the standard command line:
 
 `ln -s /path/to/item.js /path/to/item.js.sym`
 
+### Other interesting links...
+
 https://latenightsw.com/
 
 https://support.apple.com/en-gb/guide/script-editor/welcome/mac
 
-This is another project I stumbled across whilst (finally) doing this README, and having tried it out, it’s pretty good, both as a utility and as a tutorial in how to create MacOS Finder extensions in Swift:
+#### Other ways of doing the same thing...
+
+This is another project I stumbled across whilst (finally, after all these years) composing this README, and having tried it out, it’s pretty good, both as a utility and as a tutorial in how to create MacOS Finder extensions in Swift:
 
 https://github.com/ololx/quick-symlink
 
